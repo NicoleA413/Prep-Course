@@ -1,0 +1,9 @@
+HOMEWORK JSI
+
+1-
+
+*Variable: Es una herramienta que permite apartar un valor con una etiqueta que puede usarse para acceder a él más tarde.
+*Strings: Es un conjunto de caracteres encerrados entre '' o ""
+*Funciones: Una herramienta que permite que sus argumentos realicen una acción específica y devuelva un resultado.
+*Declaraciones 'if': Es la forma de condicionar una función, para que ejecute una acción sólo bajo ciertos criterios.
+*Valores booleanos: Valores que comprueban si algo es verdadero (true) o falso (false).
