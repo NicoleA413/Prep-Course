@@ -1,0 +1,9 @@
+HOMEWORK JSII
+
+1-
+
+*For: Es una herramienta que sirve para realizar una acción en bucle y así evitar comandos redundantes, en un rango que nosotros le asignemos.
+*&&, ||, !: Son operadores que sirven combinar argumentos y comprobar si son verdaderos o falsos.
+&&: Ambos argumentos deben cumplirse para ser verdadero.
+||: Al menos un argumento debe cumplirse para ser verdadero. 
+!: Le da al argumento el valor contraario.
