@@ -1,0 +1,5 @@
+HOMEWORK JSIII
+
+1-
+
+*Arrays: Es una herramienta que permite agrupar elementos diversos en valor y tipo dentro de si.
