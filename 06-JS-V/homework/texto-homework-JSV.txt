@@ -1,0 +1,6 @@
+HOMEWORK JSV
+
+1-
+
+*'prototype': Es un conjunto de propiedades base del que nacen nuevos objetos, con la intenciòn de evitar repetir propiedades en cada uno de ellos.
+*_Constructors_: Metodo en el que se organizan las propiedades base de la clase creada.
