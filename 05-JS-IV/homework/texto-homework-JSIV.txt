@@ -1,0 +1,12 @@
+HOMEWORK JSIV
+
+1-
+
+*Objetos: Una herramienta similar a un arreglo que contiene un conjunto de propiedades.
+*Propiedades: Caracterìsticas alojadas dentro de un objeto.
+*Métodos: Funciones dentro de un objeto.
+*Bucle 'for…in':Forma de crear un bucle accediendo a todas las propiedades dentro del objeto.
+*Notacion de puntos vs notación de corchetes: Notación de corchetes es una forma de acceder 
+a la propiedad dentro de un objeto de la misma forma que se accede al indice de un arreglo, 
+mientras tanto, la notación de puntos es una forma simplificada de hacerlo, poniendo un punto 
+luego del nombre del objeto, seguido de la propiedad a la que se desea acceder.
