@@ -1,0 +1,5 @@
+HOMEWORK JSVI
+
+1-
+
+*Funciones Callback: Es la forma de llamar a una función cuando se usa de argumento para otra función.
